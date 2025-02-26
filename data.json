@@ -1,0 +1,311 @@
+{
+    "teachers": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 40,
+            "subject": "Mathematics",
+            "dob": "1985-02-10"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 35,
+            "subject": "Science",
+            "dob": "1990-06-25"
+        },
+        {
+            "id": 3,
+            "name": "Emily Johnson",
+            "age": 45,
+            "subject": "English",
+            "dob": "1980-12-14"
+        },
+        {
+            "id": 4,
+            "name": "Michael Brown",
+            "age": 50,
+            "subject": "History",
+            "dob": "1975-09-05"
+        },
+        {
+            "id": 5,
+            "name": "Sarah Davis",
+            "age": 30,
+            "subject": "Geography",
+            "dob": "1995-11-21"
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice Adams",
+            "age": 16,
+            "dob": "2008-05-02",
+            "grade": "10th",
+            "major": "Science",
+            "teacherId": 2
+        },
+        {
+            "id": 2,
+            "name": "Bob Brown",
+            "age": 17,
+            "dob": "2007-11-13",
+            "grade": "11th",
+            "major": "Mathematics",
+            "teacherId": 1
+        },
+        {
+            "id": 3,
+            "name": "Charlie Clark",
+            "age": 15,
+            "dob": "2009-08-30",
+            "grade": "9th",
+            "major": "History",
+            "teacherId": 4
+        },
+        {
+            "id": 4,
+            "name": "Diana Davis",
+            "age": 16,
+            "dob": "2008-04-07",
+            "grade": "10th",
+            "major": "English",
+            "teacherId": 3
+        },
+        {
+            "id": 5,
+            "name": "Eva Evans",
+            "age": 14,
+            "dob": "2010-01-21",
+            "grade": "9th",
+            "major": "Biology",
+            "teacherId": 2
+        },
+        {
+            "id": 6,
+            "name": "Franklin Foster",
+            "age": 18,
+            "dob": "2006-12-19",
+            "grade": "12th",
+            "major": "Art",
+            "teacherId": 5
+        },
+        {
+            "id": 7,
+            "name": "Grace Green",
+            "age": 17,
+            "dob": "2007-05-11",
+            "grade": "11th",
+            "major": "Music",
+            "teacherId": 5
+        },
+        {
+            "id": 8,
+            "name": "Hank Harris",
+            "age": 15,
+            "dob": "2009-07-04",
+            "grade": "9th",
+            "major": "Physical Education",
+            "teacherId": 5
+        },
+        {
+            "id": 9,
+            "name": "Ivy Irving",
+            "age": 16,
+            "dob": "2008-03-25",
+            "grade": "10th",
+            "major": "Geography",
+            "teacherId": 5
+        },
+        {
+            "id": 10,
+            "name": "Jack Johnson",
+            "age": 17,
+            "dob": "2007-10-16",
+            "grade": "11th",
+            "major": "Chemistry",
+            "teacherId": 2
+        },
+        {
+            "id": 11,
+            "name": "Kara Kelly",
+            "age": 16,
+            "dob": "2008-02-02",
+            "grade": "10th",
+            "major": "Science",
+            "teacherId": 2
+        },
+        {
+            "id": 12,
+            "name": "Liam Lewis",
+            "age": 15,
+            "dob": "2009-06-23",
+            "grade": "9th",
+            "major": "Mathematics",
+            "teacherId": 1
+        },
+        {
+            "id": 13,
+            "name": "Mona Mitchell",
+            "age": 18,
+            "dob": "2006-08-18",
+            "grade": "12th",
+            "major": "History",
+            "teacherId": 4
+        },
+        {
+            "id": 14,
+            "name": "Nina Nelson",
+            "age": 17,
+            "dob": "2007-09-30",
+            "grade": "11th",
+            "major": "English",
+            "teacherId": 3
+        },
+        {
+            "id": 15,
+            "name": "Oscar Owens",
+            "age": 16,
+            "dob": "2008-12-10",
+            "grade": "10th",
+            "major": "Biology",
+            "teacherId": 2
+        },
+        {
+            "id": 16,
+            "name": "Paul Peterson",
+            "age": 14,
+            "dob": "2010-05-15",
+            "grade": "9th",
+            "major": "Art",
+            "teacherId": 5
+        },
+        {
+            "id": 17,
+            "name": "Quincy Quinn",
+            "age": 18,
+            "dob": "2006-04-03",
+            "grade": "12th",
+            "major": "Physics",
+            "teacherId": 1
+        },
+        {
+            "id": 18,
+            "name": "Rachel Roberts",
+            "age": 17,
+            "dob": "2007-03-29",
+            "grade": "11th",
+            "major": "Chemistry",
+            "teacherId": 2
+        },
+        {
+            "id": 19,
+            "name": "Sammy Sanchez",
+            "age": 15,
+            "dob": "2009-11-07",
+            "grade": "9th",
+            "major": "Geography",
+            "teacherId": 5
+        },
+        {
+            "id": 20,
+            "name": "Tina Thomas",
+            "age": 16,
+            "dob": "2008-06-11",
+            "grade": "10th",
+            "major": "Music",
+            "teacherId": 5
+        },
+        {
+            "id": 21,
+            "name": "Ursula Underwood",
+            "age": 14,
+            "dob": "2010-09-25",
+            "grade": "9th",
+            "major": "Physical Education",
+            "teacherId": 5
+        },
+        {
+            "id": 22,
+            "name": "Victor Vaughn",
+            "age": 18,
+            "dob": "2006-07-19",
+            "grade": "12th",
+            "major": "Art",
+            "teacherId": 5
+        },
+        {
+            "id": 23,
+            "name": "Willow Williams",
+            "age": 15,
+            "dob": "2009-01-13",
+            "grade": "9th",
+            "major": "History",
+            "teacherId": 4
+        },
+        {
+            "id": 24,
+            "name": "Xander Xiong",
+            "age": 16,
+            "dob": "2008-10-05",
+            "grade": "10th",
+            "major": "Science",
+            "teacherId": 2
+        },
+        {
+            "id": 25,
+            "name": "Yara Young",
+            "age": 17,
+            "dob": "2007-04-22",
+            "grade": "11th",
+            "major": "English",
+            "teacherId": 3
+        },
+        {
+            "id": 26,
+            "name": "Zane Zimmerman",
+            "age": 14,
+            "dob": "2010-03-06",
+            "grade": "9th",
+            "major": "Mathematics",
+            "teacherId": 1
+        },
+        {
+            "id": 27,
+            "name": "Alice Allen",
+            "age": 15,
+            "dob": "2009-12-14",
+            "grade": "9th",
+            "major": "Biology",
+            "teacherId": 2
+        },
+        {
+            "id": 28,
+            "name": "Ben Brown",
+            "age": 17,
+            "dob": "2007-09-11",
+            "grade": "11th",
+            "major": "Art",
+            "teacherId": 5
+        },
+        {
+            "id": 29,
+            "name": "Caitlyn Chapman",
+            "age": 16,
+            "dob": "2008-01-19",
+            "grade": "10th",
+            "major": "Music",
+            "teacherId": 5
+        },
+        {
+            "id": 30,
+            "name": "Dylan Davis",
+            "age": 14,
+            "dob": "2010-07-17",
+            "grade": "9th",
+            "major": "Chemistry",
+            "teacherId": 2
+        }
+    ]
+}
